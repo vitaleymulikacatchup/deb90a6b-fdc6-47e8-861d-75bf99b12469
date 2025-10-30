@@ -36,8 +36,8 @@ export default function Home() {
 
       <div id="hero" data-section="hero">
         <HeroSplit
-          title="Perfect Coffee Anywhere"
-          description="Experience barista-quality espresso on the go with our innovative portable coffee machines. Compact, powerful, and designed for coffee lovers who never compromise."
+          title="Get Your Cofee To Go"
+          description="Savor baristaquality espresso anytime, anywhere with our cuttingedge portable coffee machines Compact, powerful, and built for coffee enthusiasts who demand nothing but the best"
           tag="New Launch"
           tagIcon={Coffee}
           buttons={[
